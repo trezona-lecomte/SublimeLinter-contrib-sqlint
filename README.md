@@ -2,8 +2,6 @@
 "SublimeLinter-contrib-sqlint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-sqlint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-sqlint)
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [sqlint](https://github.com/purcell/sqlint). It will be used with files that have the “sql” syntax.
 
 ## Installation
