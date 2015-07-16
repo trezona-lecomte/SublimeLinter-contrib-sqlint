@@ -1,0 +1,10 @@
+SublimeLinter-contrib-sqlint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to sqlint.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/trezona-lecomte/SublimeLinter-contrib-sqlint
