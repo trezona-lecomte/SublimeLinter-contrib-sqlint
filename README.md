@@ -1,8 +1,8 @@
 
-"SublimeLinter-contrib-sqlint
+SublimeLinter-contrib-sqlint
 ================================
 
-This linter plugin for [SublimeLinter][docs] provides an interface to [sqlint](https://github.com/purcell/sqlint). It will be used with files that have the “sql” syntax.
+This linter plugin for [SublimeLinter][docs] provides an interface to [sqlint](https://github.com/purcell/sqlint). It will be used with files that have the `sql` syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
@@ -10,7 +10,7 @@ SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 
 ### Linter installation
 Before using this plugin, you must ensure that `sqlint` is installed on your system. To install `sqlint`, do the following:
 
-1. If you don't already have rubygems, follow the instructions [here][https://rubygems.org/pages/download] to download & install it.
+1. If you don't already have rubygems, follow the instructions [here](https://rubygems.org/pages/download) to download & install it.
 
 1. Install `sqlint` by typing the following in a terminal:
    ```
