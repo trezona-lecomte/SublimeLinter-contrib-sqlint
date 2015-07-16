@@ -23,7 +23,7 @@ class Sqlint(Linter):
 
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
-    version_requirement = '>= 0.0.3'
+    version_requirement = '>= 0.0.4'
 
     regex = (
         r'^.+?:(?P<line>\d+):(?P<col>\d+):'

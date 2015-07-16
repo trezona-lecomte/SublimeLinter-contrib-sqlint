@@ -20,7 +20,7 @@ Before using this plugin, you must ensure that `sqlint` is installed on your sys
    ```
 
 
-**Note:** This plugin requires `sqlint` 0.0.3 or later.
+**Note:** This plugin requires `sqlint` 0.0.4 or later.
 
 ### Linter configuration
 In order for `sqlint` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
