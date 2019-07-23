@@ -14,7 +14,6 @@ from SublimeLinter.lint import Linter, util
 
 
 class Sqlint(Linter):
-
     """Provides an interface to sqlint."""
 
     cmd = 'sqlint'
