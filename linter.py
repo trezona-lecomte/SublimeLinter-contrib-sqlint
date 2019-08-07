@@ -14,11 +14,10 @@ from SublimeLinter.lint import Linter, util
 
 
 class Sqlint(Linter):
-
     """Provides an interface to sqlint."""
 
     cmd = 'sqlint'
-    syntax = 'sql'
+    defaults = {'selector': 'source.sql'}
     tempfile_suffix = 'sql'
 
     version_args = '--version'
